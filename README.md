@@ -54,7 +54,11 @@ X-axis: Products
 Y-axis: Total Revenue
 
 File: sales_chart.png
-![image]()
+![image](https://github.com/Mallikarjun-9/Sales-Summary-Analysis-using-SQLite-Python/blob/96223ed7d83c0ef1b50918f7b58d13ad69e3ce17/Screenshot%202025-05-03%20195623.png)
+
+---
+
+## The code file is given in the files section.
 
 
 
