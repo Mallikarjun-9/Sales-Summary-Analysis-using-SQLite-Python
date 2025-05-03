@@ -35,17 +35,8 @@ Install required libraries using:
 
 ---
 
-
-
-
-🖼️ Bar Chart
-X-axis: Products
-
-Y-axis: Total Revenue
-
-File: sales_chart.png
-
 🧠 Concepts Used
+
 SQL (GROUP BY, SUM)
 
 SQLite3 in Python
@@ -53,6 +44,17 @@ SQLite3 in Python
 pandas for data manipulation
 
 matplotlib for visualization
+
+---
+
+🖼️ Bar Chart
+
+X-axis: Products
+
+Y-axis: Total Revenue
+
+File: sales_chart.png
+![image]()
 
 
 
