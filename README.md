@@ -29,7 +29,7 @@ Pull simple sales data (total quantity and revenue per product) from a SQLite da
 
 Install required libraries using:
 
-```bash
+
 pip install pandas matplotlib
 
 ---
