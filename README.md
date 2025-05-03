@@ -14,8 +14,11 @@ Pull simple sales data (total quantity and revenue per product) from a SQLite da
 ## 📂 Project Structure
 
 ├── sales_data.db # SQLite database file (auto-created)
+
 ├── sales_analysis.py # Main Python script
+
 ├── sales_chart.png # Bar chart of revenue by product (auto-generated)
+
 └── README.md # Project documentation
 
 ---
