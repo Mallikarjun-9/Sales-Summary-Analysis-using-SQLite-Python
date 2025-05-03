@@ -27,47 +27,16 @@ Pull simple sales data (total quantity and revenue per product) from a SQLite da
 - pandas
 - matplotlib
 
+---
+
 Install required libraries using:
 
-
-pip install pandas matplotlib
+-> pip install pandas matplotlib
 
 ---
 
-🚀 How to Run the Project
-Clone or Download this repository.
 
-Open a terminal or command prompt.
 
-Run the script using:
-
-python sales_analysis.py
-
-The script will:
-
-Create a SQLite database (sales_data.db)
-
-Insert sample data into a sales table
-
-Query sales summary (grouped by product)
-
-Print the results to the console
-
-Plot and save a bar chart as sales_chart.png
-
-📈 Sample Output
-📊 Terminal Output diff Copy Edit
-
-===== Sales Summary =====
-        product  total_qty  revenue
-0         Apple         28     70.0
-1        Banana         15     18.0
-2        Grapes         22     44.0
-3         Mango         29    130.5
-4        Orange         14     42.0
-5     Pineapple          4     20.0
-6  Pomegranate          3     18.0
-7   Watermelon          2     14.0
 
 🖼️ Bar Chart
 X-axis: Products
